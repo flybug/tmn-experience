@@ -22,8 +22,7 @@
 # 传统网管
 - [技术选型及演进](doc/tech_path.md)
 - 业务相关
-    - 单点管理
-    - 业务管理
+    - [网络管理](doc/network.md)
     - FM
     - PM
     - OAM
