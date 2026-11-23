@@ -24,7 +24,7 @@
 - [技术选型及演进](doc/tech_path.md)
 - 业务相关
     - [网络管理](doc/network.md)
-    - FM
+    - [故障/告警管理](doc/fm.md)
     - PM
     - OAM
 - 系统管理
